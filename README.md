@@ -1,0 +1,2 @@
+# QazCoreX
+QazCoreX
